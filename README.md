@@ -4,8 +4,10 @@
   - specialised in Anesthesiology, Intensive Care Medicine, (Newborn) Emergency Medicine and Telemedicine
 - 🙇‍♂️ I'm also studying *Applied Health Informatics and Digital Medicine*
   - doing my Master's Thesis
--  I like surfing, but I'm just a beginner
-- 🏊‍♂️ I like swimming, but I'm not really fast
+- 🧡 I like
+  - 🏄‍♂️ 
+  - 🏊‍♂️ 
+  - 🎸 
 - 👨‍👩‍👦‍👦 I love my family
 
 <!--
