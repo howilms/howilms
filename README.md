@@ -4,7 +4,7 @@
 - 🙋‍♂️ I'm specialised in Anesthesiology, Intensive Care Medicine, (Newborn) Emergency Medicine and Telemedicine
 - 🙇‍♂️ I'm also studying *Applied Health Informatics and Digital Medicine*
 - 🔭 I’m currently working on exploring GitHub
-- 🌱 I’m currently learning Biostatistics, Data Management and Data Science
+- 🌱 I’m currently doing my Master's Thesis
 - 🏄‍♂️ I like surfing, but I'm just a beginner
 - 🏊‍♂️ I like swimming, but I'm not really fast
 - 👨‍👩‍👦‍👦 I love my family
