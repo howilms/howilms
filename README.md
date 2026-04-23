@@ -3,7 +3,7 @@
 - 👨‍⚕ I'm currently working as a Physician in a University Hospital
   - specialised in Anesthesiology, Intensive Care Medicine, (Newborn) Emergency Medicine and Telemedicine
 - 🙇‍♂️ I'm also studying *Applied Health Informatics and Digital Medicine*
-  - doing my Master's Thesis
+  - doing my Master's Thesis at [@schneiderlabac](https://github.com/schneiderlabac)
 - 🧡 I like
   - 🏄‍♂️ 
   - 🏊‍♂️ 
